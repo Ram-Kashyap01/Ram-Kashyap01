@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m Ram Kashyap Rachuri
 
-🎯 **Engineer. Analyst. Explorer of bugs, bytes, and boss levels.**
+🎯 **Engineer. Analyst. Explorer of bugs, bytes and boss levels.**
 
 I'm a **Computer Science grad student** and hands-on techie with a passion for building, testing, and analyzing software that works — and works *well*. I’ve worked in **software QA**, **data analytics**, and **full-stack development**, always with a sharp eye for quality and performance.
 
