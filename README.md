@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="mailto:kashyaprachuri@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ram-kashyap-rachuri/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <br>
@@ -44,7 +44,7 @@ More recently I've been extending that foundation into applied AI — building e
       <img src="https://img.shields.io/badge/-🛒-4A7CB5?style=flat-square&logoColor=white" width="90" height="90" />
     </td>
     <td>
-      <b><a href="https://github.com/YOUR_GITHUB_USERNAME/swiftpos-repo-name">SwiftPOS — Point-of-Sale & Inventory Management</a></b><br>
+      <b><a href="https://github.com/Ram-Kashyap01/swiftpos-repo-name">SwiftPOS — Point-of-Sale & Inventory Management</a></b><br>
       An end-to-end POS application built with React, featuring barcode lookup, cart management, tax calculation, simulated payments, and an inventory dashboard with low-stock alerts and sales analytics.<br><br>
       <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
@@ -66,9 +66,6 @@ More recently I've been extending that foundation into applied AI — building e
 
 ---
 
-## Setup instructions (delete this section once done)
 
-1. Replace `YOUR_LINKEDIN_USERNAME` with your real LinkedIn handle.
-2. Replace `YOUR_GITHUB_USERNAME` and `swiftpos-repo-name` with your actual repo path, or remove the project section if it's not pushed yet.
-3. Create a new **public** repository named exactly your GitHub username (e.g. if your username is `ramrachuri`, the repo must be named `ramrachuri`).
-4. Add this file to that repo as `README.md`. GitHub will automatically render it on your profile page.
+
+## Add this file to that repo as `README.md`. GitHub will automatically render it on your profile page.
