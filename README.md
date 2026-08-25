@@ -11,12 +11,11 @@
 
 ## About Me
 
-I'm a Python developer with 5+ years building REST APIs, backend services, and data pipelines across healthcare and enterprise systems — mostly Django, Flask/FastAPI, and AWS. Day to day, that means owning services end to end: writing the code, debugging production issues from logs, testing with pytest, and shipping through Git-based CI/CD.
+I'm a Python developer with 5+ years building REST APIs, backend services, and data pipelines across healthcare and enterprise systems, mostly with Django, Flask/FastAPI, and AWS. Day to day, that means owning services end to end: writing the code, debugging production issues from logs, testing with pytest, and shipping through Git based CI/CD.
 
-More recently I've been extending that foundation into applied AI — building early-stage **agentic AI prototypes** that coordinate retrieval, validation, and LLM reasoning components, and getting hands-on with the OpenAI Agents API and Azure's LLM orchestration patterns.
+Recently I've also been building early stage agentic prototypes that coordinate retrieval, validation, and LLM reasoning components, and working with the OpenAI Agents API and Azure's LLM orchestration patterns.
 
-🌱 **Currently exploring:** agentic AI, multi-agent orchestration, and tool-calling workflows
-<br>
+🌱 **Currently exploring:** agentic workflows, multi agent orchestration, and tool calling
 💬 **Ask me about:** Python backend design, REST APIs, Django, pytest, and LLM integration basics
 
 <br>
@@ -45,8 +44,8 @@ More recently I've been extending that foundation into applied AI — building e
       <img src="https://img.shields.io/badge/-🛒-4A7CB5?style=flat-square&logoColor=white" width="90" height="90" />
     </td>
     <td>
-      <b><a href="https://github.com/Ram-Kashyap01/swiftpos-repo-name">SwiftPOS — Point-of-Sale & Inventory Management</a></b><br>
-      An end-to-end POS application built with React, featuring barcode lookup, cart management, tax calculation, simulated payments, and an inventory dashboard with low-stock alerts and sales analytics.<br><br>
+      <b><a href="https://github.com/Ram-Kashyap01/swiftpos-repo-name">SwiftPOS, Point of Sale & Inventory Management</a></b><br>
+      An end to end POS application built with React, featuring barcode lookup, cart management, tax calculation, simulated payments, and an inventory dashboard with low stock alerts and sales analytics.<br><br>
       <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
       <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
@@ -58,15 +57,9 @@ More recently I've been extending that foundation into applied AI — building e
 <br>
 
 <p align="center">
-  <i>Open to Python Developer and Python/AI Developer roles — feel free to reach out.</i>
+  <i>Open to Python Developer and Python/AI Developer roles. Feel free to reach out.</i>
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A7CB5,100:1F3864&height=100&section=footer" />
 </p>
-
----
-
-
-
-## Add this file to that repo as `README.md`. GitHub will automatically render it on your profile page.
