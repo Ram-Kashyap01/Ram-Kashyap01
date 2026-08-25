@@ -16,6 +16,7 @@ I'm a Python developer with 5+ years building REST APIs, backend services, and d
 Recently I've also been building early stage agentic prototypes that coordinate retrieval, validation, and LLM reasoning components, and working with the OpenAI Agents API and Azure's LLM orchestration patterns.
 
 🌱 **Currently exploring:** agentic workflows, multi agent orchestration, and tool calling
+<br>
 💬 **Ask me about:** Python backend design, REST APIs, Django, pytest, and LLM integration basics
 
 <br>
