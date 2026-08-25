@@ -1,16 +1,8 @@
-<!--
-SETUP INSTRUCTIONS (delete this comment block once done):
-1. Replace every instance of YOUR_GITHUB_USERNAME below with your actual GitHub username.
-2. Replace YOUR_LINKEDIN_URL and YOUR_EMAIL with your real links.
-3. Create a new PUBLIC repository named EXACTLY your GitHub username
-   (e.g. if your username is "ramrachuri", the repo must be named "ramrachuri").
-4. Add this file to that repo as README.md.
-5. GitHub will automatically render it on your profile page.
 <h1 align="center">Hi, I'm Ram Kashyap Rachuri 👋</h1>
 <h3 align="center">Python Developer | Applied AI & Agentic Workflows</h3>
 <p align="center">
   <a href="mailto:kashyaprachuri@gmail.com"><img src="https://img.shields.io/badge/Email-kashyaprachuri%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-New%20Jersey%2C%20USA-555555?style=flat" />
 </p>
 ---
@@ -60,3 +52,10 @@ An end-to-end POS application built with React, featuring barcode lookup, cart m
 </p>
 ---
 <p align="center"><i>Open to Python Developer and Python/AI Developer roles — feel free to reach out.</i></p>
+---
+Setup instructions (delete this section once done)
+Replace every instance of `YOUR_GITHUB_USERNAME` above with your actual GitHub username.
+Replace `YOUR_LINKEDIN_USERNAME` with your real LinkedIn handle.
+Create a new public repository named exactly your GitHub username (e.g. if your username is `ramrachuri`, the repo must be named `ramrachuri`).
+Add this file to that repo as `README.md`.
+GitHub will automatically render it on your profile page.
